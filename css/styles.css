@@ -4,8 +4,30 @@ body {
   width: 100vw;
   height: 100vh;
   box-sizing: border-box;
-  border: #ffffff 20px solid;
+  border: 20px solid;
   padding: 0;
   margin: 0;
   font-family: sans-serif;
+  padding-top: 120px;
+}
+
+h1 {
+  text-align: center;
+}
+h1 {
+  font-size: 5em;
+}
+
+img {
+  width: 100%;
+  height: px;
+  position: relative;
+  margin:0 auto;
+}
+#carouselExampleFade {
+  width: 90vw;
+  background-color: blue;
+  margin: auto;
+  border: 5px solid;
+  overflow: hidden;
 }
