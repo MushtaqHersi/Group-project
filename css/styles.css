@@ -1,5 +1,6 @@
 body {
-  background: url('<img src="../images/6iyXRErBT.jpg"') no-repeat center;
+  /* background: url('<img src="../images/6iyXRErBT.jpg"') no-repeat center; */
+ background:url("https://files.slack.com/files-pri/TKPPK4GAX-FLQBYNHU1/what_the_duck_3_fade.jpg");
   background-size: cover;
   width: 100vw;
   height: 100vh;
@@ -8,27 +9,31 @@ body {
   padding: 0;
   margin: 0;
   font-family: sans-serif;
-  padding-top: 40px;
-}
+  padding-top: 100px;
+    background-size: cover;
 
+}
 h1 {
   text-align: center;
   font-style: italic;
   font-family: sans-serif;
-  font-weight: 100;
+  background: rgba(255, 255, 255, 0);
   color:blue;
 
 }
-h1 {
-    font-size: 8em;
-}
 
+h2 {
+font-family: sans-serif;
+font size: 70px;
+font color: blue;
+}
 img {
   /* width: 100%; */
   /* height: 300px; */
   /* position: relative; */
   /* margin:0 auto; */
   text-align: center;
+  border-radius: 130px;
 }
 #parent {
 text-align: center;
@@ -36,7 +41,7 @@ text-align: center;
 
 #carouselExampleFade {
   width: 70vw;
-  background-color: blue;
+  /* background-color: blue; */
   /* margin: auto; */
   /* border: 1px solid; */
   /* overflow: hidden; */
